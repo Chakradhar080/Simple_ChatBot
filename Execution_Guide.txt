@@ -17,3 +17,4 @@ Frontend Execution:
 
 3. streamlit --version
 
+4. streamlit run frontend/streamlit_app.py
