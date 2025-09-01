@@ -13,8 +13,11 @@ Key features include:
 **Tech Stack**:
 
 **Backend**: Python, FastAPI
+
 **Frontend**: Streamlit
+
 **APIs**: OpenAI, Google Gemini, Groq
+
 **Environment Management**: .env
 
 **Ideal For**:
