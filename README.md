@@ -144,7 +144,9 @@ Linux/Mac:
 5. Create .env file in the root folder with your API keys:
 
   OPENAI_API_KEY=your_openai_api_key
+  
   GEMINI_API_KEY=your_gemini_api_key
+  
   GROQ_API_KEY=your_groq_api_key
 
 ---
