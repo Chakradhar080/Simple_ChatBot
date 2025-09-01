@@ -1,6 +1,27 @@
 🤖 **Multi-Provider AI Chatbot**
 
-A web-based AI chatbot application with support for \*\*OpenAI\*\*, \*\*Gemini\*\*, and \*\*Groq\*\* models. Users can interact via a frontend interface, while the backend handles API requests to the respective AI providers.
+This project is a **multi-provider AI chatbot** **system** that allows users to interact with OpenAI, Google Gemini, and Groq AI models through a single web interface. The backend is powered by **FastAPI**, providing REST endpoints for chat interactions, while the frontend is built with **Streamlit**, offering a clean and interactive user interface.
+
+Key features include:
+
+1. Support for multiple AI providers (OpenAI, Gemini, Groq).
+2. Easy-to-use chat interface with persistent session messages.
+3. Fully modular backend with separate bot wrappers for each provider.
+4. Environment variable management for secure API keys.
+5. Designed to be extendable for additional AI providers or cloud deployment.
+
+**Tech Stack**:
+
+**Backend**: Python, FastAPI
+**Frontend**: Streamlit
+**APIs**: OpenAI, Google Gemini, Groq
+**Environment Management**: .env
+
+**Ideal For**:
+
+Developers learning AI API integration
+Multi-provider chatbot projects
+Rapid prototyping of conversational AI systems
 
 ---
 
