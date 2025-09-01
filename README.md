@@ -76,7 +76,6 @@ Virtual environment (recommended)
 
 **Python packages are listed in `requirements.txt`:**
 
-```txt
 fastapi
 uvicorn
 requests
