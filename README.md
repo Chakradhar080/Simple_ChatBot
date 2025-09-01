@@ -23,7 +23,9 @@ Key features include:
 **Ideal For**:
 
 Developers learning AI API integration
+
 Multi-provider chatbot projects
+
 Rapid prototyping of conversational AI systems
 
 ---
