@@ -1,0 +1,19 @@
+Backend Execution:
+
+1. cd Project folder
+
+2. venv\Scripts\activate
+
+3. pip install -r requirements.txt
+
+4. uvicorn backend.main:app --reload
+
+
+Frontend Execution:
+
+1. venv\Scripts\activate
+
+2. pip install streamlit
+
+3. streamlit --version
+
